@@ -42,7 +42,7 @@ O projeto teve como foco o aprendizado e a prática, consolidando fundamentos es
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/phaelteixeira/piano.git
    ```
 2. Abra o arquivo index.html no navegador.
 
